@@ -7,6 +7,7 @@ A basic CLI and GUI C# application to understand concepts of OOP
 - **Book Borrowing and Returning**: Track which user has borrowed which book.
 - **Search Functionality**: Search for books.
 - **Dual Interface**: Use CLI and GUI.
+![Demo Screenshot](CLIandGUI.png)
 
 ## Getting Started
 
